@@ -1,5 +1,5 @@
 {
-  "deploy": {
-    "startCommand": "bash start.sh"
-  }
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": { "builder": "NIXPACKS" },
+  "deploy": { "startCommand": "gunicorn app:app" }
 }
