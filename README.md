@@ -3,8 +3,8 @@
 Ek chhota web-based VPS jaisa panel — Railway pe deploy hota hai. Owner users banata hai, har user apni Python / Node / Shell files upload, run, restart, stop kar sakta hai, modules install kar sakta hai, aur real-time logs dekh sakta hai.
 
 ## Owner credentials
-- Username: `shappno`
-- Password: `shappno_codex`
+- Username: `anik`
+- Password: `anik`
 
 ## Deploy on Railway
 
